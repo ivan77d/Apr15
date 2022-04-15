@@ -3,6 +3,6 @@ public class Main {
         int a = 100;
         int b = 100;
         int c = 100;
-        System.out.println("After merge");
+        System.out.println("Master");
     }
 }
